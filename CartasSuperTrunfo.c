@@ -82,5 +82,5 @@ int main() {
     printf("Estado: %s \nCodigo: %s \nNome: %s \nPopulacao: %d \nArea: %f \nPib: %f \nPontos:", 
         estado_2, codigo_2, nome_2, populacao_2, area_2, pib_2, n_pontos_t_2);
 
-    return 0; // Finalização do programa
+    return 0;
 }
